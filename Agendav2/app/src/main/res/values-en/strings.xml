@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Agenda</string>
+    <string name="txtBjscar">Search</string>
+    <string name="btnAgregar">Add</string>
+    <string name="lblTitulo">Title</string>
+    <string name="lblDescripcion">Description</string>
+    <string name="rdTarea">Task</string>
+    <string name="rdNota">Note</string>
+    <string name="btnFechaAlarma">Select day and time</string>
+    <string name="lblArchivos">Files</string>
+    <string name="btnArchivos">Add files</string>
+    <string name="btnGuardar">Save</string>
+    <string name="itmAgregar">Add</string>
+    <string name="itmAcercaDe">About</string>
+    <string name="itmModificar">Edit</string>
+    <string name="itmEliminar">Delete</string>
+    <string name="btnReproducir">Play</string>
+    <string name="btnPausar">Pause</string>
+
+    <string name="terminacion">Ending</string>
+    <string name="agregarRecordatorio">Add notification</string>
+    <string name="verRecordatorios">See notifications</string>
+    <string name="audio">Record audio</string>
+    <string name="video">Record video</string>
+    <string name="foto">Take picture</string>
+    <string name="archivo">Select files</string>
+    <string name="eliminar">Delete</string>
+    <string name="modificar">Edit</string>
+    <string name="ver">See</string>
+    <string name="marcar">Check as finished</string>
+</resources>
